@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+                        <meta name="description" content="TapIt Cards is a NFC enabled digital business card that makes networking easier and more efficient.">
+                        <meta property="og:image" content="https://profile.tapitcards.in//uploads/vcards/covers/119/tapit-cover.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <title>TapIt Cards - NFC Business Cards | TapIt Cards - NFC Business Cards</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Bootstrap CSS -->
+    <link href="https://profile.tapitcards.in/front/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" href="https://profile.tapitcards.in//uploads/settings/94/favicon.png" type="image/png">
+
+    
+    <link rel="stylesheet" href="https://profile.tapitcards.in/assets/css/vcard17.css">
+    <link rel="stylesheet" href="https://profile.tapitcards.in/assets/css/slider/css/slick.css">
+    <link rel="stylesheet" href="https://profile.tapitcards.in/assets/css/slider/css/slick-theme.min.css">
+    <link rel="stylesheet" href="https://profile.tapitcards.in/assets/css/new_vcard/slick-theme.css">
+    <link rel="stylesheet" href="https://profile.tapitcards.in/assets/css/new_vcard/slick.css">
+    <link rel="stylesheet" href="https://profile.tapitcards.in/assets/css/new_vcard/custom.css">
+    <link rel="stylesheet" type="text/css" href="https://profile.tapitcards.in/assets/css/third-party.css">
+    <link rel="stylesheet" type="text/css" href="https://profile.tapitcards.in/css/plugins.css">
+    <link rel="stylesheet" href="https://profile.tapitcards.in/assets/css/custom-vcard.css">
+    <link rel="stylesheet" href="https://profile.tapitcards.in/assets/css/lightbox.css">
+            <style>
+                                        .add-contact-btn {
+    background: #2569b1;
+}
+.contact-us-section.px-30 {
+    padding-top: 30px;
+}
+.profile-section .card .card-img img {
+    border-radius: 100px;
+}
+.profile-section .card .card-img {
+    border-radius: 100px;
+}
+                    </style>
+        <style>
+                                        body {
+    font-family: poppins;
+    font-weight: 400 !important;
+}
+                    </style>
+    </head>
+
+<body>
+    <div class="container p-0">
+        <div id="passwordModal" class="modal fade" role="dialog" data-bs-backdrop="static" data-bs-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Enter Password</h5>
+            </div>
+            <form method="POST" action="https://profile.tapitcards.in/tapitcards" accept-charset="UTF-8" id="passwordForm"><input name="_token" type="hidden" value="zyj16TJnoRoK8W0o0y8Sy0nUxmKoNhDtlocKd6v3">
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="alert alert-danger d-none" id="passwordError">
+                        </div>
+                        <input class="form-control input-box" required autocomplete="off" id="password" placeholder="Password" name="password" type="password" value="">
+                    </div>
+                </div>
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-primary submit-btn">Ok</button>
+                </div>
+            </div>
+            </form>
+        </div>
+    </div>
+</div>
+        <div class="main-content mx-auto w-100 overflow-hidden border">
+            
+                                                    <div class="banner-section position-relative">
+                <div class="banner-img">
+                    <img src="https://profile.tapitcards.in//uploads/vcards/covers/119/tapit-cover.jpg" class="w-100 h-100 object-fit-cover" />
+                    <div class="d-flex justify-content-end position-absolute top-0 end-0 me-3">
+                                            </div>
+                    <div class="overlay"></div>
+                </div>
+            </div>
+            <div class="profile-section px-30">
+                <div class="profile-bg">
+                    <img src="https://profile.tapitcards.in/assets/img/vcard17/profile-bg.png" />
+                </div>
+                
+               
+                <div class="card align-items-center mb-3 pb-3">
+                    <div class="card-img d-flex justify-content-center align-items-center">
+                        <img src="https://profile.tapitcards.in//uploads/vcards/profiles/339/TapIt-Logo-blue.jpg" class="w-100 h-100 object-fit-cover" />
+                    </div>
+                    <div class="card-body pt-30 pb-0 px-0 text-center">
+                        <div class="profile-name">
+                            <h4 class="text-primary mb-0 fw-bold">
+                                TapIt Cards</h4>
+                            <p class="fs-18 text-gray-300 mb-0 fw-5">NFC Business Cards</p>
+                            <p class="fs-18 text-gray-300 mb-0 fw-5"></p>
+                            <p class="fs-18 text-gray-300 mb-0 fw-5"></p>
+			                <p class="text-gray-300 mb-0 text-center profile-desc" style="margin-top:15px;">
+			                    <p>TapIt Cards offers a range of NFC cards! Based in Ahmedabad, But we ship to every corner of India. TapIt brings you the future of networking at your fingertips. No more boring paper cards – just tap, connect, and leave a lasting impression! Join the revolution with TapIt and see how easy networking can be!</p>
+			                </p>
+                        </div>
+						
+		                <div class="add-to-contact-section-fixed">
+		                    <div class="text-center mb-2">
+		                        <a href="https://profile.tapitcards.in/add-contact/21"
+		                            class="vcard17-sticky-btn add-contact-btn  d-flex justify-content-center align-items-center rounded px-5 text-decoration-none py-1  justify-content-center"><i
+		                                class="fas fa-download fa-download"></i>
+		                            &nbsp;Add as Contact</a>
+		                    </div>
+		                </div>
+						
+                    </div>
+                </div>
+                
+                <div class="vcard-seventeen__social pt-0 py-3 px-sm-3 px-2 position-relative mt-0">
+                                            <div
+                            class="social-icons d-flex justify-content-center text-decoration-none flex-wrap text-primary ">
+                            <span class="social-back d-flex text-decoration-none bg-gray-100 justify-content-center align-items-center m-sm-2 m-1 text-primary rounded-circle">
+                                <a href="tel:+917041000705">
+                                        <img src="https://profile.tapitcards.in/assets/img/vcard17/phone.png" />
+                                </a></span>
+							<span class="social-back d-flex text-decoration-none justify-content-center align-items-center m-sm-2 m-1 text-primary"><a href="mailto:connect@tapitcards.in"><img src="https://profile.tapitcards.in/assets/img/vcard17/email.png" /></a></span>						
+							                                
+								<span
+                                    class="social-back d-flex text-decoration-none justify-content-center align-items-center m-sm-2 m-1 text-primary">
+                                    <a href="https://www.tapitcards.in/" target="_blank">
+                        <i class="fas fa-globe icon fa-2x" title="Website"></i>
+
+                    </a>
+                                </span>
+                                                            
+								<span
+                                    class="social-back d-flex text-decoration-none justify-content-center align-items-center m-sm-2 m-1 text-primary">
+                                    <a href="https://www.google.com/maps/dir//tapit+cards/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x395e85e7673b5757:0x83843e3412b2afb6?sa=X&ved=2ahUKEwi_hpqE6r6EAxVbyDgGHRudDNcQ9Rd6BAhtEAA" target="_blank">
+                        <i class="fas fa-map-marked-alt icon fa-2x" title="Map"></i>
+                    </a>
+                                </span>
+                                                            
+								<span
+                                    class="social-back d-flex text-decoration-none justify-content-center align-items-center m-sm-2 m-1 text-primary">
+                                    <a href="https://www.facebook.com/tapitcards.in/" target="_blank">
+                                <i class="fab fa-facebook facebook-icon icon fa-2x" title="Facebook"></i>
+                            </a>
+                                </span>
+                                                            
+								<span
+                                    class="social-back d-flex text-decoration-none justify-content-center align-items-center m-sm-2 m-1 text-primary">
+                                    <a href="https://www.instagram.com/tapitcards.in/" target="_blank">
+                                <i class="fab fa-instagram instagram-icon icon fa-2x" title="Instagram"></i>
+                            </a>
+                                </span>
+                                                            
+								<span
+                                    class="social-back d-flex text-decoration-none justify-content-center align-items-center m-sm-2 m-1 text-primary">
+                                    <a href="https://www.youtube.com/@TapItCards" target="_blank">
+                                <i class="fab fa-youtube youtube-icon icon fa-2x" title="Youtube"></i>
+                            </a>
+                                </span>
+                                                            
+								<span
+                                    class="social-back d-flex text-decoration-none justify-content-center align-items-center m-sm-2 m-1 text-primary">
+                                    <a href="https://www.linkedin.com/company/tapitcards/" target="_blank">
+                                <i class="fab fa-linkedin linkedin-icon icon fa-2x" title="Linkedin"></i>
+                            </a>
+                                </span>
+                                                            
+								<span
+                                    class="social-back d-flex text-decoration-none justify-content-center align-items-center m-sm-2 m-1 text-primary">
+                                    <a href="https://wa.me/7041000705" target="_blank">
+                                <i class="fab fa-whatsapp whatsapp-icon icon fa-2x" title="Whatsapp"></i>
+                            </a>
+                                </span>
+                                                                                    
+                                                                                    
+                                                    </div>
+                                    </div>
+                
+                
+            </div>
+                        
+			
+			
+			<!-- div class="contact-section">
+                <div class="px-30">
+                    <div class="row">
+                                                    <div class="col-sm-6 mb-sm-5 mb-40 px-3">
+                                <div class="contact-box mb-sm-2">
+                                    <div class="contact-icon d-flex justify-content-center align-items-center bg-pink">
+                                        <img src="https://profile.tapitcards.in/assets/img/vcard17/email.png" />
+                                    </div>
+                                    <div class="contact-desc">
+                                        <p class="text-gray-300 mb-0 fs-12 fw-6">
+                                            Email</p>
+                                        <a href="mailto:connect@tapitcards.in"
+                                            class="text-primary fs-14 fw-5">connect@tapitcards.in</a>
+                                    </div>
+                                </div>
+                            </div>
+                                                                                                    <div class="col-sm-6 mb-sm-5 mb-40 px-3">
+                                <div class="contact-box mb-sm-2">
+                                    <div
+                                        class="contact-icon d-flex justify-content-center align-items-center bg-orange">
+                                        <img src="https://profile.tapitcards.in/assets/img/vcard17/phone.png" />
+                                    </div>
+                                    <div class="contact-desc">
+                                        <p class="text-gray-300 mb-0 fs-12 fw-6">
+                                            Mobile Number </p>
+                                        <a href="tel:+917041000705"
+                                            class="text-primary fs-14 fw-5">+91
+                                            7041000705</a>
+                                    </div>
+                                </div>
+                            </div>
+                                                                                                                            <div class="col-sm-6 px-3">
+                                <div class="contact-box">
+                                    <div
+                                        class="contact-icon d-flex justify-content-center align-items-center bg-purple">
+                                        <img src="https://profile.tapitcards.in/assets/img/vcard17/location.png" />
+                                    </div>
+                                    <div class="contact-desc">
+                                        <p class="text-gray-300 mb-0 fs-12 fw-6">Address
+                                        </p>
+                                        <p class="text-primary fs-14 fw-5 mb-0">Titanium City Center, Anandnagar, Ahmedabad, 380015, Gujarat</p>
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+            </div -->
+                        
+            
+            
+                                                
+                                        <div class="gallery-section mt-4 px-sm-0">
+                    <div class="phyton-img">
+                        <img src="https://profile.tapitcards.in/assets/img/vcard17/phyton.png" />
+                    </div>
+                    <div class="section-heading text-center mb-40">
+                        <h2 class="text-primary">Gallery</h2>
+                    </div>
+                    <div class="">
+                        <div class="gallery-slider">
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a id="file_url" href="https://profile.tapitcards.in//uploads/vcards/gallery/198/TapIt-Cards-Brochure-3.pdf"
+                                                class="gallery-link gallery-file-link" target="_blank">
+                                                <div class="gallery-item gallery-file-item"
+                                                     style="background-image: url(https://profile.tapitcards.in/assets/images/pdf-icon.png)">                                                                                                                                                                                                                 </div>
+                                            </a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/316/9DC0104F-69D5-482F-BA38-8D0237933379-(1).jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/316/9DC0104F-69D5-482F-BA38-8D0237933379-(1).jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/317/37329A48-56C2-4D88-850D-ECB98FAF66C1.png" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/317/37329A48-56C2-4D88-850D-ECB98FAF66C1.png" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/318/Afreen-lalani-ig-card-front.jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/318/Afreen-lalani-ig-card-front.jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/319/Amish-bhai-fornt.jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/319/Amish-bhai-fornt.jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/320/5A01AC00-2142-431A-B8AC-4D39E23EB217.jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/320/5A01AC00-2142-431A-B8AC-4D39E23EB217.jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/321/decent-hair-front.jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/321/decent-hair-front.jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/322/JG-Google-review-card-front.jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/322/JG-Google-review-card-front.jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/323/JG-Google-review-card-4.jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/323/JG-Google-review-card-4.jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <div class="d-flex align-items-center video-container">
+                                                <video width="100%" height="100%" controls>
+                                                    <source src="https://profile.tapitcards.in//uploads/vcards/gallery/324/Google-review-card-tapit.mp4">
+                                                </video>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/325/color-gallery-front-google-review.jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/325/color-gallery-front-google-review.jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/326/Manhattan-Google-Front.jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/326/Manhattan-Google-Front.jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                                                            <div class="slide">
+                                    <div class="gallery-img">
+                                                                                    <a href="https://profile.tapitcards.in//uploads/vcards/gallery/327/prowess-front.jpg" data-lightbox="gallery-images"><img
+                                                    src="https://profile.tapitcards.in//uploads/vcards/gallery/327/prowess-front.jpg" alt="profile"
+                                                    class="w-100" /></a>
+                                                                            </div>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                                    
+                                        <div class="product-section pt-60">
+                    <div class="java-img">
+                        <img src="https://profile.tapitcards.in/assets/img/vcard17/java.png" />
+                    </div>
+                    <div class="section-heading text-center mb-40">
+                        <h2 class="text-primary fw-bold">Products</h2>
+                    </div>
+                    <div class="product-slider pt-2">
+                                                    <div>
+                                <a  href="https://www.tapitcards.in/product/youtube-nfc-card/"                                     target="_blank" class="text-decoration-none fs-6">
+                                    <div class="card product-card">
+                                        <div class="card-img">
+                                            <img src="https://profile.tapitcards.in//uploads/vcards/products/109/Youtube-card.jpg"
+                                                class="h-100 w-100 object-fit-cover" />
+                                        </div>
+                                        <div class="bg-primary-light card-body">
+                                            <div class="d-flex justify-content-between">
+                                                <div class="product-title">
+                                                    <h3 class="text-primary fs-18 fw-5">TubeConnect NFC Card</h3>
+                                                </div>
+                                                                                                    <span
+                                                        class="fs-18 fw-6 text-primary">₹399.00</span>
+                                                                                            </div>
+                                            <p class="text-gray-300 mb-0">
+                                                </p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div>
+                                <a  href="https://www.tapitcards.in/product/instagram-nfc-card/"                                     target="_blank" class="text-decoration-none fs-6">
+                                    <div class="card product-card">
+                                        <div class="card-img">
+                                            <img src="https://profile.tapitcards.in//uploads/vcards/products/108/instagram-card-Design-2.jpg"
+                                                class="h-100 w-100 object-fit-cover" />
+                                        </div>
+                                        <div class="bg-primary-light card-body">
+                                            <div class="d-flex justify-content-between">
+                                                <div class="product-title">
+                                                    <h3 class="text-primary fs-18 fw-5">InstaConnect NFC Card</h3>
+                                                </div>
+                                                                                                    <span
+                                                        class="fs-18 fw-6 text-primary">₹399.00</span>
+                                                                                            </div>
+                                            <p class="text-gray-300 mb-0">
+                                                </p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div>
+                                <a  href="https://www.tapitcards.in/product/instagram-nfc-card/"                                     target="_blank" class="text-decoration-none fs-6">
+                                    <div class="card product-card">
+                                        <div class="card-img">
+                                            <img src="https://profile.tapitcards.in//uploads/vcards/products/107/instagram-card-design-1.jpg"
+                                                class="h-100 w-100 object-fit-cover" />
+                                        </div>
+                                        <div class="bg-primary-light card-body">
+                                            <div class="d-flex justify-content-between">
+                                                <div class="product-title">
+                                                    <h3 class="text-primary fs-18 fw-5">InstaConnect NFC Card</h3>
+                                                </div>
+                                                                                                    <span
+                                                        class="fs-18 fw-6 text-primary">₹399.00</span>
+                                                                                            </div>
+                                            <p class="text-gray-300 mb-0">
+                                                </p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div>
+                                <a  href="https://www.tapitcards.in/product/google-review-card-nfc-card/"                                     target="_blank" class="text-decoration-none fs-6">
+                                    <div class="card product-card">
+                                        <div class="card-img">
+                                            <img src="https://profile.tapitcards.in//uploads/vcards/products/106/google-card-d1.jpg"
+                                                class="h-100 w-100 object-fit-cover" />
+                                        </div>
+                                        <div class="bg-primary-light card-body">
+                                            <div class="d-flex justify-content-between">
+                                                <div class="product-title">
+                                                    <h3 class="text-primary fs-18 fw-5">Google Review NFC Card</h3>
+                                                </div>
+                                                                                                    <span
+                                                        class="fs-18 fw-6 text-primary">₹399.00</span>
+                                                                                            </div>
+                                            <p class="text-gray-300 mb-0">
+                                                </p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                    <div>
+                                <a  href="https://www.tapitcards.in/product/google-review-card-nfc-card/"                                     target="_blank" class="text-decoration-none fs-6">
+                                    <div class="card product-card">
+                                        <div class="card-img">
+                                            <img src="https://profile.tapitcards.in//uploads/vcards/products/105/google-card-d2.jpg"
+                                                class="h-100 w-100 object-fit-cover" />
+                                        </div>
+                                        <div class="bg-primary-light card-body">
+                                            <div class="d-flex justify-content-between">
+                                                <div class="product-title">
+                                                    <h3 class="text-primary fs-18 fw-5">Google Review NFC Card</h3>
+                                                </div>
+                                                                                                    <span
+                                                        class="fs-18 fw-6 text-primary">₹399.00</span>
+                                                                                            </div>
+                                            <p class="text-gray-300 mb-0">
+                                                </p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                            </div>
+                    <div class="text-center my-3 me-3 ms-3">
+                            <a class="mb-0 text-decoration-underline p-2 text-dark view-more"
+                                href="https://profile.tapitcards.in/products/21/tapitcards">View More Products</a>
+                    </div>
+                </div>
+                                    
+                                                
+                                    <div class="mt-5">
+            <div class="section-heading text-center mb-5">
+                        <h2 class="text-primary">Instagram Feed</h2>
+                    </div>
+                <nav>
+                <div class="row insta-toggle">
+                <div class="nav nav-tabs border-0 px-0" id="nav-tab" role="tablist">
+                    <button class="py-2 active postbtn instagram-btn border-0 text-dark" id="nav-home-tab"
+                        data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab"
+                        aria-controls="nav-home" aria-selected="true">
+                        <span class="px-1">Post</span></button>
+                    <button class="py-2 instagram-btn reelsbtn border-0 text-dark" id="nav-profile-tab" data-bs-toggle="tab"
+                        data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile"
+                        aria-selected="false">
+                        <span class="px-1">Reel</span>
+                    </button>
+                </div>
+                </div>
+            </nav>
+            <div id="postContent" class="insta-feed">
+                <div class="row overflow-hidden m-0 mt-2">
+                    <!-- "Post" content -->
+                                                                                                    <div class="col-6">
+                        <blockquote class="instagram-media"  data-instgrm-permalink="https://www.instagram.com/p/C04NIh0P4pg/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/C04NIh0P4pg/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/C04NIh0P4pg/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by TapIt NFC Business Card (@tapitcards.in)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+                    </div>
+                                                                                                                                                                 <div class="col-6">
+                        <blockquote class="instagram-media"  data-instgrm-permalink="https://www.instagram.com/p/C1uafLUOVpp/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/C1uafLUOVpp/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/C1uafLUOVpp/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by TapIt NFC Business Card (@tapitcards.in)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+                    </div>
+                                                         </div>
+            </div>
+            <div class="d-none insta-feed" id="reelContent">
+                <div class="row overflow-hidden m-0 mt-2">
+                    <!-- "Reel" content -->
+                                                                        <div class="col-6">
+                            <blockquote class="instagram-media"  data-instgrm-permalink="https://www.instagram.com/reel/C3e84XWIYjf/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/C3e84XWIYjf/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/C3e84XWIYjf/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by TapIt NFC Business Card (@tapitcards.in)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+                        </div>
+                                                                                                                                                    <div class="col-6">
+                            <blockquote class="instagram-media"  data-instgrm-permalink="https://www.instagram.com/reel/C1L4qbfrmsG/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/C1L4qbfrmsG/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/C1L4qbfrmsG/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by TapIt NFC Business Card (@tapitcards.in)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+                        </div>
+                                                                                                    <div class="col-6">
+                            <blockquote class="instagram-media"  data-instgrm-permalink="https://www.instagram.com/reel/C2uox15IQZA/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/C2uox15IQZA/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/C2uox15IQZA/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by TapIt NFC Business Card (@tapitcards.in)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+                        </div>
+                                                                                                                    </div>
+            </div>
+        </div>
+                                    
+                                                
+                                                        <div class="business-hour-section pt-5 px-30">
+                    <div class="section-heading text-center mb-40">
+                        <h2 class="text-primary">Business Hours</h2>
+                    </div>
+                    <div class="">
+                        <div class="business-hour-card mt-40">
+                            <div class="row">
+                                                                    <div class="col-12 d-flex justify-content-between mb-2">
+                                        <span
+                                            class="me-2">Monday
+                                            : </span>
+                                        <span
+                                            class="text-center">10:00 AM - 06:00 PM</span>
+                                    </div>
+                                                                    <div class="col-12 d-flex justify-content-between mb-2">
+                                        <span
+                                            class="me-2">Tuesday
+                                            : </span>
+                                        <span
+                                            class="text-center">10:00 AM - 06:00 PM</span>
+                                    </div>
+                                                                    <div class="col-12 d-flex justify-content-between mb-2">
+                                        <span
+                                            class="me-2">Wednesday
+                                            : </span>
+                                        <span
+                                            class="text-center">10:00 AM - 06:00 PM</span>
+                                    </div>
+                                                                    <div class="col-12 d-flex justify-content-between mb-2">
+                                        <span
+                                            class="me-2">Thursday
+                                            : </span>
+                                        <span
+                                            class="text-center">10:00 AM - 06:00 PM</span>
+                                    </div>
+                                                                    <div class="col-12 d-flex justify-content-between mb-2">
+                                        <span
+                                            class="me-2">Friday
+                                            : </span>
+                                        <span
+                                            class="text-center">11:00 AM - 05:00 PM</span>
+                                    </div>
+                                                                    <div class="col-12 d-flex justify-content-between mb-2">
+                                        <span
+                                            class="me-2">Saturday
+                                            : </span>
+                                        <span
+                                            class="text-center">10:00 AM - 06:00 PM</span>
+                                    </div>
+                                                                    <div class="col-12 d-flex justify-content-between mb-2">
+                                        <span
+                                            class="me-2">Sunday
+                                            : </span>
+                                        <span
+                                            class="text-center">Closed</span>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+                                    
+                                    
+            
+                                
+            
+                                    
+                        
+                        <div class="container">
+                <div class="d-flex  flex-column justify-content-center my-3">
+                                            <div class="m-2 mb-10 mt-0">
+                            <iframe width="100%" height="300px"
+                                src='https://maps.google.de/maps?q=/&output=embed'
+                                frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+                                style="border-radius: 10px;"></iframe>
+                        </div>
+                                    </div>
+            </div>
+                        
+                            <div class="add-to-contact-section pb-4 px-30">
+                    <div class="text-center mb-2">
+                        <a href="https://profile.tapitcards.in/add-contact/21"
+                            class="vcard17-sticky-btn add-contact-btn  d-flex justify-content-center align-items-center rounded px-5 text-decoration-none py-1  justify-content-center"><i
+                                class="fas fa-download fa-address-book"></i>
+                            &nbsp;Add to contact</a>
+                    </div>
+                </div>
+                        
+            <div class="d-flex justify-content-evenly">
+                                                                                        <div class="text-center">
+                                <small class="text-dark">Made By
+                                    TapIT Cards</small>
+                            </div>
+                                                                                        </div>
+            
+            <div class="btn-section cursor-pointer">
+                <div class="fixed-btn-section">
+                                        <div class="sub-btn d-none">
+                        <div class="sub-btn-div">
+                                                                                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal -->
+        
+    <div id="vcard17-shareModel" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="">
+                    <div class="row align-items-center mt-3">
+                        <div class="col-10 text-center">
+                            <h5 class="modal-title" style="padding-left: 50px;">Share My VCard</h5>
+                        </div>
+                        <div class="col-2">
+                            <button type="button" aria-label="Close"
+                                class="btn btn-sm btn-icon btn-active-color-danger border-none p-1"
+                                data-bs-dismiss="modal">
+                                <span class="svg-icon svg-icon-1">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px"
+                                        viewBox="0 0 24 24" version="1.1">
+                                        <g transform="translate(12.000000, 12.000000) rotate(-45.000000) translate(-12.000000, -12.000000) translate(4.000000, 4.000000)"
+                                            fill="#000000">
+                                            <rect fill="#000000" x="0" y="7" width="16" height="2"
+                                                rx="1" />
+                                            <rect fill="#000000" opacity="0.5"
+                                                transform="translate(8.000000, 8.000000) rotate(-270.000000) translate(-8.000000, -8.000000)"
+                                                x="0" y="7" width="16" height="2" rx="1" />
+                                        </g>
+                                    </svg>
+                                </span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                                <div class="modal-body">
+                    <a href="http://www.facebook.com/sharer.php?u=https://profile.tapitcards.in/tapitcards" target="_blank"
+                        class="text-decoration-none share" title="Facebook">
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fab fa-facebook fa-2x" style="color: #1B95E0"></i>
+
+                            </div>
+                            <div class="col-9 p-1">
+                                <p class="align-items-center text-dark video">
+                                    Share on Facebook</p>
+                            </div>
+                            <div class="col-1 p-1">
+                                <svg xmlns="http://www.w3.org/2000/svg" version="1.0" height="16px"
+                                    viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
+                                    <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+                                        fill="#000000" stroke="none">
+                                        <path
+                                            d="M1277 4943 l-177 -178 1102 -1102 1103 -1103 -1103 -1103 -1102 -1102 178 -178 177 -177 1280 1280 1280 1280 -1280 1280 -1280 1280 -178 -177z" />
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="http://twitter.com/share?url=https://profile.tapitcards.in/tapitcards&text=TapIt Cards&hashtags=sharebuttons"
+                        target="_blank" class="text-decoration-none share" title="Twitter">
+                        <div class="row">
+                            <div class="col-2">
+
+                                <span><svg xmlns="http://www.w3.org/2000/svg" height="2em"
+                                        viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+                                        <path
+                                            d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" />
+                                    </svg></span>
+
+                            </div>
+                            <div class="col-9 p-1">
+                                <p class="align-items-center text-dark">
+                                    Share on Twitter</p>
+                            </div>
+                            <div class="col-1 p-1">
+                                <svg xmlns="http://www.w3.org/2000/svg" version="1.0" height="16px"
+                                    viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
+                                    <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+                                        fill="#000000" stroke="none">
+                                        <path
+                                            d="M1277 4943 l-177 -178 1102 -1102 1103 -1103 -1103 -1103 -1102 -1102 178 -178 177 -177 1280 1280 1280 1280 -1280 1280 -1280 1280 -178 -177z" />
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://profile.tapitcards.in/tapitcards" target="_blank"
+                        class="text-decoration-none share" title="Linkedin">
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fab fa-linkedin fa-2x" style="color: #1B95E0"></i>
+                            </div>
+                            <div class="col-9 p-1">
+                                <p class="align-items-center text-dark">
+                                    Share on Linkedin</p>
+                            </div>
+                            <div class="col-1 p-1">
+                                <svg xmlns="http://www.w3.org/2000/svg" version="1.0" height="16px"
+                                    viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
+                                    <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+                                        fill="#000000" stroke="none">
+                                        <path
+                                            d="M1277 4943 l-177 -178 1102 -1102 1103 -1103 -1103 -1103 -1102 -1102 178 -178 177 -177 1280 1280 1280 1280 -1280 1280 -1280 1280 -178 -177z" />
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="mailto:?Subject=&Body=https://profile.tapitcards.in/tapitcards" target="_blank"
+                        class="text-decoration-none share" title="Email">
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fas fa-envelope fa-2x" style="color: #191a19  "></i>
+                            </div>
+                            <div class="col-9 p-1">
+                                <p class="align-items-center text-dark">
+                                    Share on Email</p>
+                            </div>
+                            <div class="col-1 p-1">
+                                <svg xmlns="http://www.w3.org/2000/svg" version="1.0" height="16px"
+                                    viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
+                                    <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+                                        fill="#000000" stroke="none">
+                                        <path
+                                            d="M1277 4943 l-177 -178 1102 -1102 1103 -1103 -1103 -1103 -1102 -1102 178 -178 177 -177 1280 1280 1280 1280 -1280 1280 -1280 1280 -178 -177z" />
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="http://pinterest.com/pin/create/link/?url=https://profile.tapitcards.in/tapitcards" target="_blank"
+                        class="text-decoration-none share" title="Pinterest">
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fab fa-pinterest fa-2x" style="color: #bd081c"></i>
+                            </div>
+                            <div class="col-9 p-1">
+                                <p class="align-items-center text-dark">
+                                    Share on Pinterest</p>
+                            </div>
+                            <div class="col-1 p-1">
+                                <svg xmlns="http://www.w3.org/2000/svg" version="1.0" height="16px"
+                                    viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
+                                    <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+                                        fill="#000000" stroke="none">
+                                        <path
+                                            d="M1277 4943 l-177 -178 1102 -1102 1103 -1103 -1103 -1103 -1102 -1102 178 -178 177 -177 1280 1280 1280 1280 -1280 1280 -1280 1280 -178 -177z" />
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="http://reddit.com/submit?url=https://profile.tapitcards.in/tapitcards&title=TapIt Cards"
+                        target="_blank" class="text-decoration-none share" title="Reddit">
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fab fa-reddit fa-2x" style="color: #ff4500"></i>
+                            </div>
+                            <div class="col-9 p-1">
+                                <p class="align-items-center text-dark">
+                                    Share on Reddit</p>
+                            </div>
+                            <div class="col-1 p-1">
+                                <svg xmlns="http://www.w3.org/2000/svg" version="1.0" height="16px"
+                                    viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
+                                    <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+                                        fill="#000000" stroke="none">
+                                        <path
+                                            d="M1277 4943 l-177 -178 1102 -1102 1103 -1103 -1103 -1103 -1102 -1102 178 -178 177 -177 1280 1280 1280 1280 -1280 1280 -1280 1280 -178 -177z" />
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="https://wa.me/?text=https://profile.tapitcards.in/tapitcards" target="_blank"
+                        class="text-decoration-none share" title="Whatsapp">
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fab fa-whatsapp fa-2x" style="color: limegreen"></i>
+                            </div>
+                            <div class="col-9 p-1">
+                                <p class="align-items-center text-dark">
+                                    Share on Whatsapp</p>
+                            </div>
+                            <div class="col-1 p-1">
+                                <svg xmlns="http://www.w3.org/2000/svg" version="1.0" height="16px"
+                                    viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
+                                    <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+                                        fill="#000000" stroke="none">
+                                        <path
+                                            d="M1277 4943 l-177 -178 1102 -1102 1103 -1103 -1103 -1103 -1102 -1102 178 -178 177 -177 1280 1280 1280 1280 -1280 1280 -1280 1280 -178 -177z" />
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="col-12 justify-content-between social-link-modal">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="https://profile.tapitcards.in/tapitcards"
+                                disabled>
+                            <span id="vcardUrlCopy21" class="d-none" target="_blank">
+                                https://profile.tapitcards.in/tapitcards </span>
+                            <button class="copy-vcard-clipboard btn btn-dark" title="Copy Link"
+                                data-id="21">
+                                <i class="fa-regular fa-copy fa-2x"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="text-center">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+<script id="appoitmentTemplate" type="text/x-jsrender">
+    <div class="col-md-4 mb-3 timePick">
+                    <div class="card  appoint-input time-slot" data-id="{{:value}}" id="time-slot">
+                    {{:value}}
+                </div>
+                </div>
+
+
+
+
+
+
+</script>
+
+
+<script id="appoitmentTemplateV11" type="text/x-jsrender">
+    <div class="col-6 mb-4 timePick">
+    
+                 <div type="time" data-id="{{:value}}"  class="form-control appoint-input time-slot w-100 text-white fs-14" style="text-align: center;border-radius: 12px;margin-top:-3px;"
+                                                 id="time-slot">
+                                                   {{:value}}
+                                            </div>
+  
+    </div>
+
+
+
+
+
+</script>
+<script src="https://js.stripe.com/v3/"></script>
+<script src="../js/jquery.min.js"></script>
+<script type="text/javascript" src="https://profile.tapitcards.in/assets/js/front-third-party.js"></script>
+<script type="text/javascript" src="https://profile.tapitcards.in/front/js/bootstrap.bundle.min.js"></script>
+<script src="https://profile.tapitcards.in/assets/js/slider/js/slick.min.js" type="text/javascript"></script>
+<script>
+    let stripe = ''
+        $().ready(function() {
+        $(".product-slider").slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            centerMode: true,
+            arrows: false,
+            dots: true,
+            speed: 300,
+            centerPadding: "115px",
+            infinite: true,
+            autoplaySpeed: 5000,
+            autoplay: true,
+            responsive: [{
+                    breakpoint: 575,
+                    settings: {
+                        centerPadding: "115px",
+                        dots: true,
+                    },
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        centerPadding: "0",
+                        dots: true,
+                    },
+                },
+            ],
+        });
+        $(".blog-slider").slick({
+            arrows: false,
+            infinite: true,
+            dots: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            prevArrow: '<button class="slide-arrow prev-arrow"><i class="fa-solid fa-chevron-left"></i></button>',
+            nextArrow: '<button class="slide-arrow next-arrow"><i class="fa-solid fa-chevron-right"></i></button>',
+            responsive: [{
+                breakpoint: 575,
+                settings: {
+                    dots: true,
+                    arrows: false,
+                },
+            }, ],
+        });
+        $(".iframe-slider").slick({
+            arrows: false,
+            infinite: true,
+            dots: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: false,
+            prevArrow: '<button class="slide-arrow prev-arrow"><i class="fa-solid fa-chevron-left"></i></button>',
+            nextArrow: '<button class="slide-arrow next-arrow"><i class="fa-solid fa-chevron-right"></i></button>',
+            responsive: [{
+                breakpoint: 575,
+                settings: {
+                    dots: true,
+                    arrows: false,
+                },
+            }, ],
+        });
+        $(".gallery-slider").slick({
+            arrows: true,
+            infinite: true,
+            dots: false,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            prevArrow: '<button class="slide-arrow prev-arrow"><i class="fa-solid fa-chevron-left"></i></button>',
+            nextArrow: '<button class="slide-arrow next-arrow"><i class="fa-solid fa-chevron-right"></i></button>',
+            responsive: [{
+                breakpoint: 575,
+                settings: {
+                    dots: true,
+                    arrows: false,
+                },
+            }, ],
+        });
+    });
+</script>
+<script>
+    var rev = $(".testimonial-slider");
+    rev
+        .on("init", function(event, slick, currentSlide) {
+            var cur = $(slick.$slides[slick.currentSlide]),
+                next = cur.next(),
+                prev = cur.prev();
+            prev.addClass("slick-sprev");
+            next.addClass("slick-snext");
+            cur.removeClass("slick-snext").removeClass("slick-sprev");
+            slick.$prev = prev;
+            slick.$next = next;
+        })
+        .on("beforeChange", function(event, slick, currentSlide, nextSlide) {
+            var cur = $(slick.$slides[nextSlide]);
+            slick.$prev.removeClass("slick-sprev");
+            slick.$next.removeClass("slick-snext");
+            (next = cur.next()), (prev = cur.prev());
+            prev.prev();
+            prev.next();
+            prev.addClass("slick-sprev");
+            next.addClass("slick-snext");
+            slick.$prev = prev;
+            slick.$next = next;
+            cur.removeClass("slick-next").removeClass("slick-sprev");
+        });
+
+    $(".testimonial-slider").slick({
+        speed: 1000,
+        arrows: false,
+        dots: true,
+        infinite: true,
+        centerMode: true,
+        slidesPerRow: 1,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        centerPadding: "0",
+    });
+</script>
+<script>
+    let isEdit = false
+    let password = ""
+    let passwordUrl = "https://profile.tapitcards.in/vcard/21/check-password";
+    let enquiryUrl = "https://profile.tapitcards.in/vcard/21/enquiry/store?alias=tapitcards";
+    let appointmentUrl = "https://profile.tapitcards.in/vcard/21/appointment/store?alias=tapitcards";
+    let slotUrl = "https://profile.tapitcards.in/session-time/tapitcards";
+    let appUrl = "https://profile.tapitcards.in/";
+    let vcardId = 21;
+    let vcardAlias = "tapitcards";
+    let languageChange = "https://profile.tapitcards.in/language";
+    let paypalUrl = "https://profile.tapitcards.in/admin/paypal-onboard"
+    let lang = "en";
+</script>
+<script>
+    const qrCodeSeventeen = document.getElementById("qr-code-seventeen");
+    const svg = qrCodeSeventeen.querySelector("svg");
+    const blob = new Blob([svg.outerHTML], {
+        type: 'image/svg+xml'
+    });
+    const url = URL.createObjectURL(blob);
+    const image = document.createElement('img');
+    image.src = url;
+    image.addEventListener('load', () => {
+        const canvas = document.createElement('canvas');
+        canvas.width = canvas.height = 200;
+        const context = canvas.getContext('2d');
+        context.drawImage(image, 0, 0, canvas.width, canvas.height);
+        const link = document.getElementById('qr-code-btn');
+        link.href = canvas.toDataURL();
+        URL.revokeObjectURL(url);
+    });
+</script>
+<script type="text/javascript">
+    const Ziggy = {"url":"https:\/\/profile.tapitcards.in","port":null,"defaults":{},"routes":{"debugbar.openhandler":{"uri":"_debugbar\/open","methods":["GET","HEAD"]},"debugbar.clockwork":{"uri":"_debugbar\/clockwork\/{id}","methods":["GET","HEAD"]},"debugbar.assets.css":{"uri":"_debugbar\/assets\/stylesheets","methods":["GET","HEAD"]},"debugbar.assets.js":{"uri":"_debugbar\/assets\/javascript","methods":["GET","HEAD"]},"debugbar.cache.delete":{"uri":"_debugbar\/cache\/{key}\/{tags?}","methods":["DELETE"]},"livewire.message":{"uri":"livewire\/message\/{name}","methods":["POST"]},"livewire.message-localized":{"uri":"{locale}\/livewire\/message\/{name}","methods":["POST"]},"livewire.upload-file":{"uri":"livewire\/upload-file","methods":["POST"]},"livewire.preview-file":{"uri":"livewire\/preview-file\/{filename}","methods":["GET","HEAD"]},"log-viewer.hosts":{"uri":"log-viewer\/api\/hosts","methods":["GET","HEAD"]},"log-viewer.folders":{"uri":"log-viewer\/api\/folders","methods":["GET","HEAD"]},"log-viewer.folders.download":{"uri":"log-viewer\/api\/folders\/{folderIdentifier}\/download","methods":["GET","HEAD"]},"log-viewer.folders.clear-cache":{"uri":"log-viewer\/api\/folders\/{folderIdentifier}\/clear-cache","methods":["POST"]},"log-viewer.folders.delete":{"uri":"log-viewer\/api\/folders\/{folderIdentifier}","methods":["DELETE"]},"log-viewer.files":{"uri":"log-viewer\/api\/files","methods":["GET","HEAD"]},"log-viewer.files.download":{"uri":"log-viewer\/api\/files\/{fileIdentifier}\/download","methods":["GET","HEAD"]},"log-viewer.files.clear-cache":{"uri":"log-viewer\/api\/files\/{fileIdentifier}\/clear-cache","methods":["POST"]},"log-viewer.files.delete":{"uri":"log-viewer\/api\/files\/{fileIdentifier}","methods":["DELETE"]},"log-viewer.files.clear-cache-all":{"uri":"log-viewer\/api\/clear-cache-all","methods":["POST"]},"log-viewer.files.delete-multiple-files":{"uri":"log-viewer\/api\/delete-multiple-files","methods":["POST"]},"log-viewer.logs":{"uri":"log-viewer\/api\/logs","methods":["GET","HEAD"]},"log-viewer.index":{"uri":"log-viewer\/{view?}","methods":["GET","HEAD"],"wheres":{"view":"(.*)"}},"ignition.healthCheck":{"uri":"_ignition\/health-check","methods":["GET","HEAD"]},"ignition.executeSolution":{"uri":"_ignition\/execute-solution","methods":["POST"]},"ignition.updateConfig":{"uri":"_ignition\/update-config","methods":["POST"]},"stancl.tenancy.asset":{"uri":"tenancy\/assets\/{path?}","methods":["GET","HEAD"],"wheres":{"path":"(.*)"}},"home":{"uri":"\/","methods":["GET","HEAD"]},"social.login":{"uri":"login\/{provider}","methods":["GET","HEAD"]},"declineCookie":{"uri":"cookie","methods":["GET","HEAD"]},"terms.conditions":{"uri":"terms-conditions","methods":["GET","HEAD"]},"privacy.policy":{"uri":"privacy-policy","methods":["GET","HEAD"]},"email.sub":{"uri":"email-sub","methods":["POST"]},"vcard-templates":{"uri":"vcard-templates","methods":["GET","HEAD"]},"fornt-faq":{"uri":"faq","methods":["GET","HEAD"]},"profile.setting":{"uri":"profile\/edit","methods":["GET","HEAD"]},"mode.theme":{"uri":"mode","methods":["GET","HEAD"]},"update.profile.setting":{"uri":"profile\/update","methods":["PUT"]},"user.changePassword":{"uri":"change-user-password","methods":["PUT"]},"user.changeLanguage":{"uri":"change-user-language","methods":["PUT"]},"impersonate.leave":{"uri":"impersonate-leave","methods":["GET","HEAD"]},"payment-success":{"uri":"payment-success","methods":["GET","HEAD"]},"failed-payment":{"uri":"failed-payment","methods":["GET","HEAD"]},"dashboard.vcard.chart":{"uri":"admin\/dashboard-chart","methods":["GET","HEAD"]},"subscription.index":{"uri":"admin\/manage-subscription","methods":["GET","HEAD"]},"choose.payment.type":{"uri":"admin\/choose-payment-type\/{planId}\/{context?}\/{fromScreen?}","methods":["GET","HEAD"]},"purchase-subscription":{"uri":"admin\/purchase-subscription","methods":["POST"]},"subscription.upgrade":{"uri":"admin\/manage-subscription\/upgrade","methods":["GET","HEAD"]},"subscription.plan-zero":{"uri":"admin\/subscription-purchase\/{plan}\/plan-zero","methods":["POST"],"bindings":{"plan":"id"}},"subscription.manual":{"uri":"admin\/subscription-purchase\/{plan}\/manual","methods":["POST"]},"stripe.purchase":{"uri":"admin\/stripe\/subscription-purchase","methods":["POST"]},"paypal.init":{"uri":"admin\/paypal-onboard","methods":["GET","HEAD"]},"paypal.success":{"uri":"admin\/paypal-payment-success","methods":["GET","HEAD"]},"paypal.failed":{"uri":"admin\/paypal-payment-failed","methods":["GET","HEAD"]},"paystack.init":{"uri":"admin\/paystack-onboard","methods":["GET","HEAD"]},"paystack.success":{"uri":"admin\/paystack-payment-success","methods":["GET","HEAD"]},"paystack.user.success":{"uri":"admin\/paystack-user-payment-success","methods":["GET","HEAD"]},"razorpay.init":{"uri":"admin\/razorpay-onboard","methods":["GET","HEAD"]},"razorpay.success":{"uri":"admin\/razorpay-payment-success","methods":["POST"]},"razorpay.failed":{"uri":"admin\/razorpay-payment-failed","methods":["POST"]},"nfc.razorpay.success":{"uri":"admin\/nfc-razorpay-payment-success","methods":["POST"]},"nfc.razorpay.failed":{"uri":"admin\/nfc-razorpay-payment-failed","methods":["POST"]},"admin.dashboard":{"uri":"admin\/dashboard","methods":["GET","HEAD"]},"vcard.analytics":{"uri":"admin\/vcard\/{vcard}\/analytics","methods":["GET","HEAD"],"bindings":{"vcard":"id"}},"vcard.showSubscribers":{"uri":"admin\/vcard\/subscribers\/{vcard}","methods":["GET","HEAD"],"bindings":{"vcard":"id"}},"enquiries.index":{"uri":"admin\/enquiries","methods":["GET","HEAD"]},"appointments.index":{"uri":"admin\/appointments","methods":["GET","HEAD"]},"appointments.update":{"uri":"admin\/appointments\/status\/{appointment}","methods":["POST"],"bindings":{"appointment":"id"}},"appointments.calendar":{"uri":"admin\/appointments-calendar","methods":["GET","HEAD"]},"appointments.destroy":{"uri":"admin\/appointment\/{appointment}","methods":["DELETE"],"bindings":{"appointment":"id"}},"vcard.status":{"uri":"admin\/vcard\/status\/{vcard}","methods":["GET","HEAD"],"bindings":{"vcard":"id"}},"vcard.service.index":{"uri":"admin\/vcard\/{vcard}\/services","methods":["GET","HEAD"]},"vcard.service.store":{"uri":"admin\/vcard\/services","methods":["POST"]},"vcard.service.edit":{"uri":"admin\/vcard\/services\/{vcardService}","methods":["GET","HEAD"],"bindings":{"vcardService":"id"}},"vcard.service.update":{"uri":"admin\/vcard\/services\/{vcardService}\/update","methods":["POST"],"bindings":{"vcardService":"id"}},"vcard.service.destroy":{"uri":"admin\/vcard\/services\/{vcardService}","methods":["DELETE"],"bindings":{"vcardService":"id"}},"vcard.blogs.index":{"uri":"admin\/vcard\/{vcard}\/blogs","methods":["GET","HEAD"]},"vcard.blog.store":{"uri":"admin\/vcard\/blogs","methods":["POST"]},"vcard.blog.edit":{"uri":"admin\/vcard\/blogs\/{vcardBlog}","methods":["GET","HEAD"],"bindings":{"vcardBlog":"id"}},"vcard.blog.update":{"uri":"admin\/vcard\/blogs\/{vcardBlog}\/update","methods":["POST"],"bindings":{"vcardBlog":"id"}},"vcard.blog.destroy":{"uri":"admin\/vcard\/blogs\/{vcardBlog}","methods":["DELETE"],"bindings":{"vcardBlog":"id"}},"gallery.index":{"uri":"admin\/vcard\/{vcard}\/galleries","methods":["GET","HEAD"]},"gallery.store":{"uri":"admin\/vcard\/galleries","methods":["POST"]},"gallery.edit":{"uri":"admin\/vcard\/galleries\/{gallery}","methods":["GET","HEAD"],"bindings":{"gallery":"id"}},"gallery.update":{"uri":"admin\/vcard\/galleries\/{gallery}\/update","methods":["POST"],"bindings":{"gallery":"id"}},"gallery.destroy":{"uri":"admin\/vcard\/galleries\/{gallery}","methods":["DELETE"],"bindings":{"gallery":"id"}},"instagram-embed.store":{"uri":"admin\/vcard\/instagram-embed","methods":["POST"]},"instagram-embed.edit":{"uri":"admin\/vcard\/instagram-embed\/{instagramembed}","methods":["GET","HEAD"],"bindings":{"instagramembed":"id"}},"instagram-embed.update":{"uri":"admin\/vcard\/instagram-embed\/{instagramembed}\/update","methods":["POST"],"bindings":{"instagramembed":"id"}},"instagram-embed.destroy":{"uri":"admin\/vcard\/instagram-embed\/{instagramembed}","methods":["DELETE"]},"vcard.products.index":{"uri":"admin\/vcard\/{vcard}\/products","methods":["GET","HEAD"]},"vcard.products.store":{"uri":"admin\/vcard\/products","methods":["POST"]},"vcard.products.edit":{"uri":"admin\/vcard\/products\/{products}","methods":["GET","HEAD"]},"vcard.products.update":{"uri":"admin\/vcard\/products\/{products}\/update","methods":["POST"]},"vcard.products.destroy":{"uri":"admin\/vcard\/products\/{products}","methods":["DELETE"]},"banner.index":{"uri":"admin\/vcard\/{vcard}\/banners","methods":["GET","HEAD"]},"banner.store":{"uri":"admin\/vcard\/banners","methods":["POST"]},"update-product-status":{"uri":"admin\/vcard\/product-orders\/{id}\/{status}","methods":["POST"]},"testimonial.index":{"uri":"admin\/vcard\/{vcard}\/testimonials","methods":["GET","HEAD"]},"testimonial.store":{"uri":"admin\/vcard\/testimonials","methods":["POST"]},"testimonial.edit":{"uri":"admin\/vcard\/testimonials\/{testimonial}","methods":["GET","HEAD"],"bindings":{"testimonial":"id"}},"testimonial.update":{"uri":"admin\/vcard\/testimonials\/{testimonial}\/update","methods":["POST"],"bindings":{"testimonial":"id"}},"testimonial.destroy":{"uri":"admin\/vcard\/testimonials\/{testimonial}","methods":["DELETE"],"bindings":{"testimonial":"id"}},"iframe.store":{"uri":"admin\/vcard\/iframes","methods":["POST"]},"iframe.edit":{"uri":"admin\/vcard\/iframe\/{iframe}","methods":["GET","HEAD"],"bindings":{"iframe":"id"}},"iframe.update":{"uri":"admin\/vcard\/iframe\/{iframe}\/update","methods":["POST"],"bindings":{"iframe":"id"}},"iframe.destroy":{"uri":"admin\/vcard\/iframe\/{iframe}","methods":["DELETE"],"bindings":{"iframe":"id"}},"enquiry.index":{"uri":"admin\/vcards\/{vcard}\/enquiry","methods":["GET","HEAD"]},"get.slot":{"uri":"admin\/getSlot","methods":["GET","HEAD"]},"user.setting.index":{"uri":"admin\/user-settings","methods":["GET","HEAD"]},"user.payment.method":{"uri":"admin\/payment-method","methods":["GET","HEAD"]},"user.setting.update":{"uri":"admin\/user-setting","methods":["POST"]},"virtual-backgrounds.index":{"uri":"admin\/virtual-backgrounds","methods":["GET","HEAD"]},"virtual-backgrounds.create":{"uri":"admin\/virtual-backgrounds\/{ecard}\/create","methods":["GET","HEAD"]},"virtual-backgrounds.store":{"uri":"admin\/virtual-backgrounds\/{ecard}","methods":["POST"]},"get.ecard":{"uri":"admin\/virtual-backgrounds\/{ecard_id}","methods":["GET","HEAD"]},"download.ecard":{"uri":"admin\/download-virtual-backgrounds","methods":["POST"]},"get-vcard-data":{"uri":"admin\/get-vcard-data","methods":["GET","HEAD"]},"product-orders.index":{"uri":"admin\/product-orders","methods":["GET","HEAD"]},"product-orders.create":{"uri":"admin\/product-orders\/create","methods":["GET","HEAD"]},"product-orders.store":{"uri":"admin\/product-orders","methods":["POST"]},"product-orders.show":{"uri":"admin\/product-orders\/{product_order}","methods":["GET","HEAD"]},"product-orders.edit":{"uri":"admin\/product-orders\/{product_order}\/edit","methods":["GET","HEAD"]},"product-orders.update":{"uri":"admin\/product-orders\/{product_order}","methods":["PUT","PATCH"]},"product-orders.destroy":{"uri":"admin\/product-orders\/{product_order}","methods":["DELETE"]},"generateSitemap":{"uri":"sadmin\/generate-sitemap","methods":["GET","HEAD"]},"dashboard.plan-chart":{"uri":"sadmin\/dashboard-plan-chart","methods":["POST"]},"dashboard.income-chart":{"uri":"sadmin\/dashboard-income-chart","methods":["POST"]},"get.dashboard.income-chart":{"uri":"sadmin\/dashboard-income-chart","methods":["GET","HEAD"]},"subscription.cash":{"uri":"sadmin\/planSubscriptions","methods":["GET","HEAD"]},"subscription.status":{"uri":"sadmin\/planSubscription\/{id}","methods":["GET","HEAD"]},"subscription.user.plan":{"uri":"sadmin\/subscribedPlans","methods":["GET","HEAD"]},"subscription.user.plan.edit":{"uri":"sadmin\/subscribedPlan\/{id}\/edit","methods":["GET","HEAD"]},"subscription.user.plan.update":{"uri":"sadmin\/subscribedPlan\/{id}\/update","methods":["GET","HEAD"]},"sadmin.dashboard":{"uri":"sadmin\/dashboard","methods":["GET","HEAD"]},"sadmin.nfc.card.types":{"uri":"sadmin\/nfc-card-types","methods":["GET","HEAD"]},"nfc-card-orders.index":{"uri":"sadmin\/nfc-card-orders","methods":["GET","HEAD"]},"nfc-card-orders.show":{"uri":"sadmin\/nfc-card-orders\/{nfc_card_order}","methods":["GET","HEAD"]},"nfc.store":{"uri":"sadmin\/nfc\/store","methods":["POST"]},"nfc.delete":{"uri":"sadmin\/nfc\/delete\/{id}","methods":["DELETE"]},"nfc.edit":{"uri":"sadmin\/nfc\/{id}","methods":["GET","HEAD"]},"nfc.update":{"uri":"sadmin\/nfc\/update\/{id}","methods":["POST"]},"users.index":{"uri":"sadmin\/users","methods":["GET","HEAD"]},"users.create":{"uri":"sadmin\/users\/create","methods":["GET","HEAD"]},"users.store":{"uri":"sadmin\/users","methods":["POST"]},"users.show":{"uri":"sadmin\/users\/{user}","methods":["GET","HEAD"],"bindings":{"user":"id"}},"users.edit":{"uri":"sadmin\/users\/{user}\/edit","methods":["GET","HEAD"],"bindings":{"user":"id"}},"users.update":{"uri":"sadmin\/users\/{user}","methods":["PUT","PATCH"],"bindings":{"user":"id"}},"users.destroy":{"uri":"sadmin\/users\/{user}","methods":["DELETE"],"bindings":{"user":"id"}},"admins.index":{"uri":"sadmin\/admins","methods":["GET","HEAD"]},"admins.create":{"uri":"sadmin\/admins\/create","methods":["GET","HEAD"]},"admins.store":{"uri":"sadmin\/admins","methods":["POST"]},"admins.show":{"uri":"sadmin\/admins\/{admin}","methods":["GET","HEAD"]},"admins.edit":{"uri":"sadmin\/admins\/{admin}\/edit","methods":["GET","HEAD"]},"admins.update":{"uri":"sadmin\/admins\/{admin}","methods":["PUT","PATCH"]},"admins.destroy":{"uri":"sadmin\/admins\/{admin}","methods":["DELETE"],"bindings":{"admin":"id"}},"frontFaqs.index":{"uri":"sadmin\/frontFaqs","methods":["GET","HEAD"]},"frontFaqs.create":{"uri":"sadmin\/frontFaqs\/create","methods":["GET","HEAD"]},"frontFaqs.store":{"uri":"sadmin\/frontFaqs","methods":["POST"]},"frontFaqs.show":{"uri":"sadmin\/frontFaqs\/{frontFaq}","methods":["GET","HEAD"]},"frontFaqs.edit":{"uri":"sadmin\/frontFaqs\/{frontFaq}\/edit","methods":["GET","HEAD"]},"frontFaqs.update":{"uri":"sadmin\/frontFaqs\/{frontFaq}","methods":["PUT","PATCH"]},"frontFaqs.destroy":{"uri":"sadmin\/frontFaqs\/{frontFaq}","methods":["DELETE"]},"frontFaqs.updateData":{"uri":"sadmin\/frontFaqs\/{id}\/update","methods":["POST"]},"frontTestimonials.index":{"uri":"sadmin\/frontTestimonials","methods":["GET","HEAD"]},"frontTestimonials.create":{"uri":"sadmin\/frontTestimonials\/create","methods":["GET","HEAD"]},"frontTestimonials.store":{"uri":"sadmin\/frontTestimonials","methods":["POST"]},"frontTestimonials.show":{"uri":"sadmin\/frontTestimonials\/{frontTestimonial}","methods":["GET","HEAD"]},"frontTestimonials.edit":{"uri":"sadmin\/frontTestimonials\/{frontTestimonial}\/edit","methods":["GET","HEAD"],"bindings":{"frontTestimonial":"id"}},"frontTestimonials.update":{"uri":"sadmin\/frontTestimonials\/{frontTestimonial}","methods":["PUT","PATCH"]},"frontTestimonials.destroy":{"uri":"sadmin\/frontTestimonials\/{frontTestimonial}","methods":["DELETE"],"bindings":{"frontTestimonial":"id"}},"frontTestimonial.updateData":{"uri":"sadmin\/frontTestimonials\/{id}\/update","methods":["POST"]},"users.email-verified":{"uri":"sadmin\/users\/email-verified\/{user}","methods":["GET","HEAD"],"bindings":{"user":"id"}},"users.status":{"uri":"sadmin\/users\/update-status\/{user}","methods":["GET","HEAD"],"bindings":{"user":"id"}},"impersonate":{"uri":"sadmin\/impersonate\/{user}","methods":["GET","HEAD"],"bindings":{"user":"id"}},"sadmin.vcards.index":{"uri":"sadmin\/vcards","methods":["GET","HEAD"]},"sadmin.affiliate-user.index":{"uri":"sadmin\/affiliate-users","methods":["GET","HEAD"]},"sadmin.affiliation-transaction.index":{"uri":"sadmin\/affiliation-transactions","methods":["GET","HEAD"]},"sadmin.withdraw-transactions":{"uri":"sadmin\/withdraw-transactions","methods":["GET","HEAD"]},"sadmin.change-withdrawal-status":{"uri":"sadmin\/change-withdrawal-status\/{id}\/{isApproved}","methods":["POST"]},"sadmin.templates.index":{"uri":"sadmin\/templates","methods":["GET","HEAD"]},"sadmin.vcard.analytics":{"uri":"sadmin\/vcard\/{vcard}\/analytics","methods":["GET","HEAD"],"bindings":{"vcard":"id"}},"countries.index":{"uri":"sadmin\/countries","methods":["GET","HEAD"]},"countries.create":{"uri":"sadmin\/countries\/create","methods":["GET","HEAD"]},"countries.store":{"uri":"sadmin\/countries","methods":["POST"]},"countries.show":{"uri":"sadmin\/countries\/{country}","methods":["GET","HEAD"]},"countries.edit":{"uri":"sadmin\/countries\/{country}\/edit","methods":["GET","HEAD"],"bindings":{"country":"id"}},"countries.update":{"uri":"sadmin\/countries\/{country}","methods":["PUT","PATCH"],"bindings":{"country":"id"}},"countries.destroy":{"uri":"sadmin\/countries\/{country}","methods":["DELETE"],"bindings":{"country":"id"}},"states.index":{"uri":"sadmin\/states","methods":["GET","HEAD"]},"states.create":{"uri":"sadmin\/states\/create","methods":["GET","HEAD"]},"states.store":{"uri":"sadmin\/states","methods":["POST"]},"states.show":{"uri":"sadmin\/states\/{state}","methods":["GET","HEAD"]},"states.edit":{"uri":"sadmin\/states\/{state}\/edit","methods":["GET","HEAD"],"bindings":{"state":"id"}},"states.update":{"uri":"sadmin\/states\/{state}","methods":["PUT","PATCH"],"bindings":{"state":"id"}},"states.destroy":{"uri":"sadmin\/states\/{state}","methods":["DELETE"],"bindings":{"state":"id"}},"cities.index":{"uri":"sadmin\/cities","methods":["GET","HEAD"]},"cities.create":{"uri":"sadmin\/cities\/create","methods":["GET","HEAD"]},"cities.store":{"uri":"sadmin\/cities","methods":["POST"]},"cities.show":{"uri":"sadmin\/cities\/{city}","methods":["GET","HEAD"]},"cities.edit":{"uri":"sadmin\/cities\/{city}\/edit","methods":["GET","HEAD"],"bindings":{"city":"id"}},"cities.update":{"uri":"sadmin\/cities\/{city}","methods":["PUT","PATCH"],"bindings":{"city":"id"}},"cities.destroy":{"uri":"sadmin\/cities\/{city}","methods":["DELETE"],"bindings":{"city":"id"}},"plans.index":{"uri":"sadmin\/plans","methods":["GET","HEAD"]},"plans.create":{"uri":"sadmin\/plans\/create","methods":["GET","HEAD"]},"plans.store":{"uri":"sadmin\/plans","methods":["POST"]},"plans.show":{"uri":"sadmin\/plans\/{plan}","methods":["GET","HEAD"]},"plans.edit":{"uri":"sadmin\/plans\/{plan}\/edit","methods":["GET","HEAD"],"bindings":{"plan":"id"}},"plans.update":{"uri":"sadmin\/plans\/{plan}","methods":["PUT","PATCH"]},"plans.destroy":{"uri":"sadmin\/plans\/{plan}","methods":["DELETE"],"bindings":{"plan":"id"}},"plan.status":{"uri":"sadmin\/plans\/status\/{plan}","methods":["GET","HEAD"],"bindings":{"plan":"id"}},"plan-status":{"uri":"sadmin\/plans\/subscriber-plan-status\/{plan}","methods":["POST"],"bindings":{"plan":"id"}},"make.plan.default":{"uri":"sadmin\/subscription-plans\/{user}\/make-plan-as-default","methods":["POST"]},"currencies.index":{"uri":"sadmin\/currencies","methods":["GET","HEAD"]},"features.index":{"uri":"sadmin\/features","methods":["GET","HEAD"]},"features.create":{"uri":"sadmin\/features\/create","methods":["GET","HEAD"]},"features.store":{"uri":"sadmin\/features","methods":["POST"]},"features.show":{"uri":"sadmin\/features\/{feature}","methods":["GET","HEAD"]},"features.edit":{"uri":"sadmin\/features\/{feature}\/edit","methods":["GET","HEAD"],"bindings":{"feature":"id"}},"features.update":{"uri":"sadmin\/features\/{feature}","methods":["PUT","PATCH"]},"features.destroy":{"uri":"sadmin\/features\/{feature}","methods":["DELETE"]},"aboutUs.index":{"uri":"sadmin\/about-us","methods":["GET","HEAD"]},"aboutUs.store":{"uri":"sadmin\/about-us","methods":["POST"]},"contact.contactus":{"uri":"sadmin\/contactUs","methods":["GET","HEAD"]},"themeConfiguration":{"uri":"sadmin\/theme-configuration","methods":["GET","HEAD"]},"banner":{"uri":"sadmin\/banner","methods":["GET","HEAD"]},"bannerStore":{"uri":"sadmin\/banner","methods":["POST"]},"usersData.dashboard":{"uri":"sadmin\/dashboard-users","methods":["GET","HEAD"]},"setting.front.cms":{"uri":"sadmin\/front-cms","methods":["GET","HEAD"]},"setting.front.cms.update":{"uri":"sadmin\/front-cms","methods":["POST"]},"email.sub.index":{"uri":"sadmin\/email-subscriptions","methods":["GET","HEAD"]},"email.sub.destroy":{"uri":"sadmin\/email-sub\/{emailSubscription}","methods":["DELETE"],"bindings":{"emailSubscription":"id"}},"languages.index":{"uri":"sadmin\/languages","methods":["GET","HEAD"]},"languages.create":{"uri":"sadmin\/languages\/create","methods":["GET","HEAD"]},"languages.store":{"uri":"sadmin\/languages","methods":["POST"]},"languages.show":{"uri":"sadmin\/languages\/{language}","methods":["GET","HEAD"],"bindings":{"language":"id"}},"languages.edit":{"uri":"sadmin\/languages\/{language}\/edit","methods":["GET","HEAD"],"bindings":{"language":"id"}},"languages.update":{"uri":"sadmin\/languages\/{language}","methods":["PUT","PATCH"]},"languages.destroy":{"uri":"sadmin\/languages\/{language}","methods":["DELETE"],"bindings":{"language":"id"}},"language.update":{"uri":"sadmin\/language-update\/{id}","methods":["POST"]},"languages.translation":{"uri":"sadmin\/languages\/translation\/{language}","methods":["GET","HEAD"],"bindings":{"language":"id"}},"languages.translation.update":{"uri":"sadmin\/languages\/translation\/{language}\/update","methods":["POST"],"bindings":{"language":"id"}},"changePassword":{"uri":"sadmin\/change-password\/{user}","methods":["PUT"],"bindings":{"user":"id"}},"setting.index":{"uri":"sadmin\/settings","methods":["GET","HEAD"]},"setting.upgradeDatabase":{"uri":"sadmin\/upgradeDatabase","methods":["GET","HEAD"]},"setting.update":{"uri":"sadmin\/settings","methods":["POST"]},"setting.update.theme":{"uri":"sadmin\/settings\/theme","methods":["POST"]},"payment.method.update":{"uri":"sadmin\/payment-method","methods":["POST"]},"google_analytics.update":{"uri":"sadmin\/google_analytics","methods":["POST"]},"setting.TermsConditions.update":{"uri":"sadmin\/setting-credential","methods":["POST"]},"update.mobile.validation":{"uri":"sadmin\/update-mobile-validation","methods":["POST"]},"setting.ManualPaymentGuides.update":{"uri":"sadmin\/setting-payment-guide","methods":["POST"]},"coupon-codes.index":{"uri":"sadmin\/coupon-codes","methods":["GET","HEAD"]},"coupon-codes.store":{"uri":"sadmin\/coupon-codes","methods":["POST"]},"coupon-codes.edit":{"uri":"sadmin\/coupon-codes\/{couponCodeId}","methods":["GET","HEAD"]},"coupon-codes.update":{"uri":"sadmin\/coupon-codes\/{couponCodeId}","methods":["PUT"]},"coupon-codes.destroy":{"uri":"sadmin\/coupon-codes\/{couponCodeId}","methods":["DELETE"]},"coupon-codes.change-status":{"uri":"sadmin\/change-coupon-codes-status\/{couponCodeId}","methods":["POST"]},"nfc.payment.status":{"uri":"sadmin\/nfc\/payment-status\/{transaction}","methods":["GET","HEAD"],"bindings":{"transaction":"id"}},"nfc.order.status":{"uri":"sadmin\/nfc\/order-status\/{order}","methods":["GET","HEAD"],"bindings":{"order":"id"}},"sadmin.withdraw-transactions.show":{"uri":"affiliation-withdraws\/{id}","methods":["GET","HEAD"]},"delete-user":{"uri":"delete-data\/{user}","methods":["DELETE"],"bindings":{"user":"id"}},"delete-account":{"uri":"admin\/delete-account","methods":["GET","HEAD"]},"vcards.index":{"uri":"admin\/vcards","methods":["GET","HEAD"]},"vcards.create":{"uri":"admin\/vcards\/create","methods":["GET","HEAD"]},"vcards.store":{"uri":"admin\/vcards","methods":["POST"]},"vcards.show":{"uri":"admin\/vcards\/{vcard}","methods":["GET","HEAD"]},"vcards.update":{"uri":"admin\/vcards\/{vcard}","methods":["PUT","PATCH"],"bindings":{"vcard":"id"}},"vcards.edit":{"uri":"admin\/vcards\/{vcard}\/edit","methods":["GET","HEAD"],"bindings":{"vcard":"id"}},"vcards.destroy":{"uri":"admin\/vcards\/{vcard}\/destroy","methods":["DELETE"],"bindings":{"vcard":"id"}},"duplicate.vcard":{"uri":"admin\/vcards\/duplicate\/{id}","methods":["POST"]},"vcards.get-unique-url-alias":{"uri":"admin\/get-url-alias","methods":["GET","HEAD"]},"vcards.check-unique-url-alias":{"uri":"admin\/check-url-alias\/{urlAlias}","methods":["GET","HEAD"]},"user.affiliation.index":{"uri":"admin\/affiliations","methods":["GET","HEAD"]},"withdraw-amount":{"uri":"admin\/affiliation-withdraws","methods":["POST"]},"send-invite":{"uri":"admin\/affiliations","methods":["POST"]},"user.orders":{"uri":"admin\/my-nfc-cards","methods":["GET","HEAD"]},"order.nfc":{"uri":"admin\/my-nfc-cards\/create","methods":["GET","HEAD"]},"vcard-data":{"uri":"admin\/vcard-data","methods":["GET","HEAD"]},"nfc.order.store":{"uri":"admin\/order","methods":["POST"]},"stripe.nfc":{"uri":"admin\/nfc\/stripe","methods":["GET","HEAD"]},"my-nfc-orders.index":{"uri":"admin\/my-nfc-orders","methods":["GET","HEAD"]},"my-nfc-orders.show":{"uri":"admin\/my-nfc-orders\/{my_nfc_order}","methods":["GET","HEAD"]},"vcard.defaultIndex":{"uri":"v","methods":["GET","HEAD"]},"old.vcard.show":{"uri":"v\/{alias}","methods":["GET","HEAD"]},"old.vcard.show-blog":{"uri":"v\/{alias}\/blog\/{id}","methods":["GET","HEAD"]},"showProducts":{"uri":"products\/{id}\/{alias}","methods":["GET","HEAD"]},"old.vcard.show-privacy-policy":{"uri":"v\/{alias}\/privacy-policy\/{id}","methods":["GET","HEAD"]},"vcard.chart":{"uri":"vcard\/{alias}\/chart","methods":["GET","HEAD"]},"vcard.password":{"uri":"vcard\/{vcard}\/check-password","methods":["POST"],"bindings":{"vcard":"id"}},"add-contact":{"uri":"add-contact\/{vcard}","methods":["GET","HEAD"],"bindings":{"vcard":"id"}},"enquiry.store":{"uri":"vcard\/{vcard}\/enquiry\/store","methods":["POST"],"bindings":{"vcard":"id"}},"appointment.store":{"uri":"vcard\/{vcard}\/appointment\/store","methods":["POST"]},"enquiry.show":{"uri":"enquiry\/{enquiry}","methods":["GET","HEAD"]},"enquiry.destroy":{"uri":"enquiry\/{enquiry}","methods":["DELETE"],"bindings":{"enquiry":"id"}},"LanguageChange":{"uri":"language\/{languageName}\/{alias}","methods":["GET","HEAD"]},"get.all.language":{"uri":"language","methods":["GET","HEAD"]},"user.stripe-payment":{"uri":"user-stripe-payment","methods":["POST"]},"user.payment-success":{"uri":"user-payment-success","methods":["GET","HEAD"]},"user.failed-payment":{"uri":"user-failed-payment","methods":["GET","HEAD"]},"buy.product.success":{"uri":"buy-product-success","methods":["GET","HEAD"]},"buy.product.failed":{"uri":"buy-product-fail","methods":["GET","HEAD"]},"nfc.stripe.sucess":{"uri":"nfc-stripe-success","methods":["GET","HEAD"]},"nfc.stripe.failed":{"uri":"nfc-stripe-failed","methods":["GET","HEAD"]},"nfc.paypal.success":{"uri":"nfc-paypal-success","methods":["GET","HEAD"]},"nfc.paypal.failed":{"uri":"nfc-paypal-failed","methods":["GET","HEAD"]},"user.paypal.init":{"uri":"user-paypal-onboard","methods":["GET","HEAD"]},"user.paypal.success":{"uri":"user-paypal-payment-success","methods":["GET","HEAD"]},"user.paypal.failed":{"uri":"user-paypal-payment-failed","methods":["GET","HEAD"]},"paypal.buy.product.success":{"uri":"product-paypal-payment-success","methods":["GET","HEAD"]},"paypal.buy.product.failed":{"uri":"product-paypal-payment-failed","methods":["GET","HEAD"]},"paypal.payout":{"uri":"paypal-payout","methods":["GET","HEAD"]},"apply-coupon-code":{"uri":"apply-coupon-code\/{couponCode?}","methods":["POST"]},"vcard11.index":{"uri":"vcard11","methods":["GET","HEAD"]},"vcard11.resume":{"uri":"vcard11\/privacy-policy","methods":["GET","HEAD"]},"vcard11.portfolio":{"uri":"vcard11\/term-condition","methods":["GET","HEAD"]},"vcard11.contact":{"uri":"vcard11\/contact","methods":["GET","HEAD"]},"vcard11.blog":{"uri":"vcard11\/blog","methods":["GET","HEAD"]},"vcard11.portfolio-single":{"uri":"vcard11\/portfolio-single","methods":["GET","HEAD"]},"vcard11.portfolio-single-2":{"uri":"vcard11\/portfolio-single-2","methods":["GET","HEAD"]},"vcard11.blog-single":{"uri":"vcard11\/blog-single","methods":["GET","HEAD"]},"register":{"uri":"register","methods":["GET","HEAD"]},"login":{"uri":"login","methods":["GET","HEAD"]},"password.request":{"uri":"forgot-password","methods":["GET","HEAD"]},"password.email":{"uri":"forgot-password","methods":["POST"]},"password.reset":{"uri":"reset-password\/{token}","methods":["GET","HEAD"]},"password.update":{"uri":"reset-password","methods":["POST"]},"verification.notice":{"uri":"verify-email","methods":["GET","HEAD"]},"verification.verify":{"uri":"verify-email\/{id}\/{hash}","methods":["GET","HEAD"]},"verification.send":{"uri":"email\/verification-notification","methods":["POST"]},"password.confirm":{"uri":"confirm-password","methods":["GET","HEAD"]},"logout":{"uri":"logout","methods":["POST"]},"user-verify-email":{"uri":"change-email-verification\/{user_id}\/{token}","methods":["GET","HEAD"]},"dashboard":{"uri":"dashboard","methods":["GET","HEAD"]},"appointment-session-time":{"uri":"session-time\/{alias}","methods":["GET","HEAD"]},"contact.store":{"uri":"contact","methods":["POST"]},"vcard.download":{"uri":"vcards\/{vcard}","methods":["GET","HEAD"]},"appointmentsData.data":{"uri":"appointments-data","methods":["GET","HEAD"]},"lange-js":{"uri":"lang-js","methods":["GET","HEAD"]},"getCookie":{"uri":"getCookie","methods":["GET","HEAD"]},"vcard.show":{"uri":"{alias}","methods":["GET","HEAD"]},"vcard.show-blog":{"uri":"{alias}\/blog\/{id}","methods":["GET","HEAD"]},"vcard.show-privacy-policy":{"uri":"{alias}\/privacy-policy\/{id}","methods":["GET","HEAD"]},"vcard.show.resume":{"uri":"{alias}\/resume","methods":["GET","HEAD"]},"vcard.show.contact":{"uri":"{alias}\/contact","methods":["GET","HEAD"]},"appointment.store.vcard11":{"uri":"{alias}\/contact\/appointment\/store","methods":["POST"]},"buy.product":{"uri":"buy-product","methods":["POST"]},"vcard.show.blog":{"uri":"{alias}\/blog","methods":["GET","HEAD"]},"vcard.show.portfolio-single":{"uri":"{alias}\/portfolio-single","methods":["GET","HEAD"]},"vcard.show.portfolio-single-2":{"uri":"{alias}\/portfolio-single-2","methods":["GET","HEAD"]},"vcard.show.blog-single":{"uri":"{alias}\/blog-single\/{id}","methods":["GET","HEAD"]},"vcard.show.privacy-policy":{"uri":"{alias}\/privacy-policies\/{id}","methods":["GET","HEAD"]},"vcard.show.term-condition":{"uri":"{alias}\/term-condition\/{id}","methods":["GET","HEAD"]},"emailSubscriprion-store":{"uri":"{alias}","methods":["POST"]}}};
+
+    !function(t,r){"object"==typeof exports&&"undefined"!=typeof module?module.exports=r():"function"==typeof define&&define.amd?define(r):(t||self).route=r()}(this,function(){function t(t,r){for(var n=0;n<r.length;n++){var e=r[n];e.enumerable=e.enumerable||!1,e.configurable=!0,"value"in e&&(e.writable=!0),Object.defineProperty(t,e.key,e)}}function r(r,n,e){return n&&t(r.prototype,n),e&&t(r,e),Object.defineProperty(r,"prototype",{writable:!1}),r}function n(){return n=Object.assign?Object.assign.bind():function(t){for(var r=1;r<arguments.length;r++){var n=arguments[r];for(var e in n)Object.prototype.hasOwnProperty.call(n,e)&&(t[e]=n[e])}return t},n.apply(this,arguments)}function e(t){return e=Object.setPrototypeOf?Object.getPrototypeOf.bind():function(t){return t.__proto__||Object.getPrototypeOf(t)},e(t)}function o(t,r){return o=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,r){return t.__proto__=r,t},o(t,r)}function i(){if("undefined"==typeof Reflect||!Reflect.construct)return!1;if(Reflect.construct.sham)return!1;if("function"==typeof Proxy)return!0;try{return Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],function(){})),!0}catch(t){return!1}}function u(t,r,n){return u=i()?Reflect.construct.bind():function(t,r,n){var e=[null];e.push.apply(e,r);var i=new(Function.bind.apply(t,e));return n&&o(i,n.prototype),i},u.apply(null,arguments)}function f(t){var r="function"==typeof Map?new Map:void 0;return f=function(t){if(null===t||-1===Function.toString.call(t).indexOf("[native code]"))return t;if("function"!=typeof t)throw new TypeError("Super expression must either be null or a function");if(void 0!==r){if(r.has(t))return r.get(t);r.set(t,n)}function n(){return u(t,arguments,e(this).constructor)}return n.prototype=Object.create(t.prototype,{constructor:{value:n,enumerable:!1,writable:!0,configurable:!0}}),o(n,t)},f(t)}var a=String.prototype.replace,c=/%20/g,l="RFC3986",s={default:l,formatters:{RFC1738:function(t){return a.call(t,c,"+")},RFC3986:function(t){return String(t)}},RFC1738:"RFC1738",RFC3986:l},p=Object.prototype.hasOwnProperty,v=Array.isArray,y=function(){for(var t=[],r=0;r<256;++r)t.push("%"+((r<16?"0":"")+r.toString(16)).toUpperCase());return t}(),d=function(t,r){for(var n=r&&r.plainObjects?Object.create(null):{},e=0;e<t.length;++e)void 0!==t[e]&&(n[e]=t[e]);return n},b={arrayToObject:d,assign:function(t,r){return Object.keys(r).reduce(function(t,n){return t[n]=r[n],t},t)},combine:function(t,r){return[].concat(t,r)},compact:function(t){for(var r=[{obj:{o:t},prop:"o"}],n=[],e=0;e<r.length;++e)for(var o=r[e],i=o.obj[o.prop],u=Object.keys(i),f=0;f<u.length;++f){var a=u[f],c=i[a];"object"==typeof c&&null!==c&&-1===n.indexOf(c)&&(r.push({obj:i,prop:a}),n.push(c))}return function(t){for(;t.length>1;){var r=t.pop(),n=r.obj[r.prop];if(v(n)){for(var e=[],o=0;o<n.length;++o)void 0!==n[o]&&e.push(n[o]);r.obj[r.prop]=e}}}(r),t},decode:function(t,r,n){var e=t.replace(/\+/g," ");if("iso-8859-1"===n)return e.replace(/%[0-9a-f]{2}/gi,unescape);try{return decodeURIComponent(e)}catch(t){return e}},encode:function(t,r,n,e,o){if(0===t.length)return t;var i=t;if("symbol"==typeof t?i=Symbol.prototype.toString.call(t):"string"!=typeof t&&(i=String(t)),"iso-8859-1"===n)return escape(i).replace(/%u[0-9a-f]{4}/gi,function(t){return"%26%23"+parseInt(t.slice(2),16)+"%3B"});for(var u="",f=0;f<i.length;++f){var a=i.charCodeAt(f);45===a||46===a||95===a||126===a||a>=48&&a<=57||a>=65&&a<=90||a>=97&&a<=122||o===s.RFC1738&&(40===a||41===a)?u+=i.charAt(f):a<128?u+=y[a]:a<2048?u+=y[192|a>>6]+y[128|63&a]:a<55296||a>=57344?u+=y[224|a>>12]+y[128|a>>6&63]+y[128|63&a]:(a=65536+((1023&a)<<10|1023&i.charCodeAt(f+=1)),u+=y[240|a>>18]+y[128|a>>12&63]+y[128|a>>6&63]+y[128|63&a])}return u},isBuffer:function(t){return!(!t||"object"!=typeof t||!(t.constructor&&t.constructor.isBuffer&&t.constructor.isBuffer(t)))},isRegExp:function(t){return"[object RegExp]"===Object.prototype.toString.call(t)},maybeMap:function(t,r){if(v(t)){for(var n=[],e=0;e<t.length;e+=1)n.push(r(t[e]));return n}return r(t)},merge:function t(r,n,e){if(!n)return r;if("object"!=typeof n){if(v(r))r.push(n);else{if(!r||"object"!=typeof r)return[r,n];(e&&(e.plainObjects||e.allowPrototypes)||!p.call(Object.prototype,n))&&(r[n]=!0)}return r}if(!r||"object"!=typeof r)return[r].concat(n);var o=r;return v(r)&&!v(n)&&(o=d(r,e)),v(r)&&v(n)?(n.forEach(function(n,o){if(p.call(r,o)){var i=r[o];i&&"object"==typeof i&&n&&"object"==typeof n?r[o]=t(i,n,e):r.push(n)}else r[o]=n}),r):Object.keys(n).reduce(function(r,o){var i=n[o];return r[o]=p.call(r,o)?t(r[o],i,e):i,r},o)}},h=Object.prototype.hasOwnProperty,g={brackets:function(t){return t+"[]"},comma:"comma",indices:function(t,r){return t+"["+r+"]"},repeat:function(t){return t}},m=Array.isArray,j=String.prototype.split,w=Array.prototype.push,O=function(t,r){w.apply(t,m(r)?r:[r])},E=Date.prototype.toISOString,R=s.default,S={addQueryPrefix:!1,allowDots:!1,charset:"utf-8",charsetSentinel:!1,delimiter:"&",encode:!0,encoder:b.encode,encodeValuesOnly:!1,format:R,formatter:s.formatters[R],indices:!1,serializeDate:function(t){return E.call(t)},skipNulls:!1,strictNullHandling:!1},k=function t(r,n,e,o,i,u,f,a,c,l,s,p,v,y){var d,h=r;if("function"==typeof f?h=f(n,h):h instanceof Date?h=l(h):"comma"===e&&m(h)&&(h=b.maybeMap(h,function(t){return t instanceof Date?l(t):t})),null===h){if(o)return u&&!v?u(n,S.encoder,y,"key",s):n;h=""}if("string"==typeof(d=h)||"number"==typeof d||"boolean"==typeof d||"symbol"==typeof d||"bigint"==typeof d||b.isBuffer(h)){if(u){var g=v?n:u(n,S.encoder,y,"key",s);if("comma"===e&&v){for(var w=j.call(String(h),","),E="",R=0;R<w.length;++R)E+=(0===R?"":",")+p(u(w[R],S.encoder,y,"value",s));return[p(g)+"="+E]}return[p(g)+"="+p(u(h,S.encoder,y,"value",s))]}return[p(n)+"="+p(String(h))]}var k,T=[];if(void 0===h)return T;if("comma"===e&&m(h))k=[{value:h.length>0?h.join(",")||null:void 0}];else if(m(f))k=f;else{var x=Object.keys(h);k=a?x.sort(a):x}for(var C=0;C<k.length;++C){var N=k[C],D="object"==typeof N&&void 0!==N.value?N.value:h[N];if(!i||null!==D){var F=m(h)?"function"==typeof e?e(n,N):n:n+(c?"."+N:"["+N+"]");O(T,t(D,F,e,o,i,u,f,a,c,l,s,p,v,y))}}return T},T=Object.prototype.hasOwnProperty,x=Array.isArray,C={allowDots:!1,allowPrototypes:!1,arrayLimit:20,charset:"utf-8",charsetSentinel:!1,comma:!1,decoder:b.decode,delimiter:"&",depth:5,ignoreQueryPrefix:!1,interpretNumericEntities:!1,parameterLimit:1e3,parseArrays:!0,plainObjects:!1,strictNullHandling:!1},N=function(t){return t.replace(/&#(\d+);/g,function(t,r){return String.fromCharCode(parseInt(r,10))})},D=function(t,r){return t&&"string"==typeof t&&r.comma&&t.indexOf(",")>-1?t.split(","):t},F=function(t,r,n,e){if(t){var o=n.allowDots?t.replace(/\.([^.[]+)/g,"[$1]"):t,i=/(\[[^[\]]*])/g,u=n.depth>0&&/(\[[^[\]]*])/.exec(o),f=u?o.slice(0,u.index):o,a=[];if(f){if(!n.plainObjects&&T.call(Object.prototype,f)&&!n.allowPrototypes)return;a.push(f)}for(var c=0;n.depth>0&&null!==(u=i.exec(o))&&c<n.depth;){if(c+=1,!n.plainObjects&&T.call(Object.prototype,u[1].slice(1,-1))&&!n.allowPrototypes)return;a.push(u[1])}return u&&a.push("["+o.slice(u.index)+"]"),function(t,r,n,e){for(var o=e?r:D(r,n),i=t.length-1;i>=0;--i){var u,f=t[i];if("[]"===f&&n.parseArrays)u=[].concat(o);else{u=n.plainObjects?Object.create(null):{};var a="["===f.charAt(0)&&"]"===f.charAt(f.length-1)?f.slice(1,-1):f,c=parseInt(a,10);n.parseArrays||""!==a?!isNaN(c)&&f!==a&&String(c)===a&&c>=0&&n.parseArrays&&c<=n.arrayLimit?(u=[])[c]=o:"__proto__"!==a&&(u[a]=o):u={0:o}}o=u}return o}(a,r,n,e)}},$=function(t,r){var n=function(t){if(!t)return C;if(null!=t.decoder&&"function"!=typeof t.decoder)throw new TypeError("Decoder has to be a function.");if(void 0!==t.charset&&"utf-8"!==t.charset&&"iso-8859-1"!==t.charset)throw new TypeError("The charset option must be either utf-8, iso-8859-1, or undefined");return{allowDots:void 0===t.allowDots?C.allowDots:!!t.allowDots,allowPrototypes:"boolean"==typeof t.allowPrototypes?t.allowPrototypes:C.allowPrototypes,arrayLimit:"number"==typeof t.arrayLimit?t.arrayLimit:C.arrayLimit,charset:void 0===t.charset?C.charset:t.charset,charsetSentinel:"boolean"==typeof t.charsetSentinel?t.charsetSentinel:C.charsetSentinel,comma:"boolean"==typeof t.comma?t.comma:C.comma,decoder:"function"==typeof t.decoder?t.decoder:C.decoder,delimiter:"string"==typeof t.delimiter||b.isRegExp(t.delimiter)?t.delimiter:C.delimiter,depth:"number"==typeof t.depth||!1===t.depth?+t.depth:C.depth,ignoreQueryPrefix:!0===t.ignoreQueryPrefix,interpretNumericEntities:"boolean"==typeof t.interpretNumericEntities?t.interpretNumericEntities:C.interpretNumericEntities,parameterLimit:"number"==typeof t.parameterLimit?t.parameterLimit:C.parameterLimit,parseArrays:!1!==t.parseArrays,plainObjects:"boolean"==typeof t.plainObjects?t.plainObjects:C.plainObjects,strictNullHandling:"boolean"==typeof t.strictNullHandling?t.strictNullHandling:C.strictNullHandling}}(r);if(""===t||null==t)return n.plainObjects?Object.create(null):{};for(var e="string"==typeof t?function(t,r){var n,e={},o=(r.ignoreQueryPrefix?t.replace(/^\?/,""):t).split(r.delimiter,Infinity===r.parameterLimit?void 0:r.parameterLimit),i=-1,u=r.charset;if(r.charsetSentinel)for(n=0;n<o.length;++n)0===o[n].indexOf("utf8=")&&("utf8=%E2%9C%93"===o[n]?u="utf-8":"utf8=%26%2310003%3B"===o[n]&&(u="iso-8859-1"),i=n,n=o.length);for(n=0;n<o.length;++n)if(n!==i){var f,a,c=o[n],l=c.indexOf("]="),s=-1===l?c.indexOf("="):l+1;-1===s?(f=r.decoder(c,C.decoder,u,"key"),a=r.strictNullHandling?null:""):(f=r.decoder(c.slice(0,s),C.decoder,u,"key"),a=b.maybeMap(D(c.slice(s+1),r),function(t){return r.decoder(t,C.decoder,u,"value")})),a&&r.interpretNumericEntities&&"iso-8859-1"===u&&(a=N(a)),c.indexOf("[]=")>-1&&(a=x(a)?[a]:a),e[f]=T.call(e,f)?b.combine(e[f],a):a}return e}(t,n):t,o=n.plainObjects?Object.create(null):{},i=Object.keys(e),u=0;u<i.length;++u){var f=i[u],a=F(f,e[f],n,"string"==typeof t);o=b.merge(o,a,n)}return b.compact(o)},A=/*#__PURE__*/function(){function t(t,r,n){var e,o;this.name=t,this.definition=r,this.bindings=null!=(e=r.bindings)?e:{},this.wheres=null!=(o=r.wheres)?o:{},this.config=n}var n=t.prototype;return n.matchesUrl=function(t){var r=this;if(!this.definition.methods.includes("GET"))return!1;var n=this.template.replace(/(\/?){([^}?]*)(\??)}/g,function(t,n,e,o){var i,u="(?<"+e+">"+((null==(i=r.wheres[e])?void 0:i.replace(/(^\^)|(\$$)/g,""))||"[^/?]+")+")";return o?"("+n+u+")?":""+n+u}).replace(/^\w+:\/\//,""),e=t.replace(/^\w+:\/\//,"").split("?"),o=e[0],i=e[1],u=new RegExp("^"+n+"/?$").exec(o);if(u){for(var f in u.groups)u.groups[f]="string"==typeof u.groups[f]?decodeURIComponent(u.groups[f]):u.groups[f];return{params:u.groups,query:$(i)}}return!1},n.compile=function(t){var r=this,n=this.parameterSegments;return n.length?this.template.replace(/{([^}?]+)(\??)}/g,function(e,o,i){var u,f,a;if(!i&&[null,void 0].includes(t[o]))throw new Error("Ziggy error: '"+o+"' parameter is required for route '"+r.name+"'.");if(n[n.length-1].name===o&&".*"===r.wheres[o])return encodeURIComponent(null!=(a=t[o])?a:"").replace(/%2F/g,"/");if(r.wheres[o]&&!new RegExp("^"+(i?"("+r.wheres[o]+")?":r.wheres[o])+"$").test(null!=(u=t[o])?u:""))throw new Error("Ziggy error: '"+o+"' parameter does not match required format '"+r.wheres[o]+"' for route '"+r.name+"'.");return encodeURIComponent(null!=(f=t[o])?f:"")}).replace(this.origin+"//",this.origin+"/").replace(/\/+$/,""):this.template},r(t,[{key:"template",get:function(){return(this.origin+"/"+this.definition.uri).replace(/\/+$/,"")}},{key:"origin",get:function(){return this.config.absolute?this.definition.domain?""+this.config.url.match(/^\w+:\/\//)[0]+this.definition.domain+(this.config.port?":"+this.config.port:""):this.config.url:""}},{key:"parameterSegments",get:function(){var t,r;return null!=(t=null==(r=this.template.match(/{[^}?]+\??}/g))?void 0:r.map(function(t){return{name:t.replace(/{|\??}/g,""),required:!/\?}$/.test(t)}}))?t:[]}}]),t}(),I=/*#__PURE__*/function(t){var e,i;function u(r,e,o,i){var u;if(void 0===o&&(o=!0),(u=t.call(this)||this).t=null!=i?i:"undefined"!=typeof Ziggy?Ziggy:null==globalThis?void 0:globalThis.Ziggy,u.t=n({},u.t,{absolute:o}),r){if(!u.t.routes[r])throw new Error("Ziggy error: route '"+r+"' is not in the route list.");u.i=new A(r,u.t.routes[r],u.t),u.u=u.l(e)}return u}i=t,(e=u).prototype=Object.create(i.prototype),e.prototype.constructor=e,o(e,i);var f=u.prototype;return f.toString=function(){var t=this,r=Object.keys(this.u).filter(function(r){return!t.i.parameterSegments.some(function(t){return t.name===r})}).filter(function(t){return"_query"!==t}).reduce(function(r,e){var o;return n({},r,((o={})[e]=t.u[e],o))},{});return this.i.compile(this.u)+function(t,r){var n,e=t,o=function(t){if(!t)return S;if(null!=t.encoder&&"function"!=typeof t.encoder)throw new TypeError("Encoder has to be a function.");var r=t.charset||S.charset;if(void 0!==t.charset&&"utf-8"!==t.charset&&"iso-8859-1"!==t.charset)throw new TypeError("The charset option must be either utf-8, iso-8859-1, or undefined");var n=s.default;if(void 0!==t.format){if(!h.call(s.formatters,t.format))throw new TypeError("Unknown format option provided.");n=t.format}var e=s.formatters[n],o=S.filter;return("function"==typeof t.filter||m(t.filter))&&(o=t.filter),{addQueryPrefix:"boolean"==typeof t.addQueryPrefix?t.addQueryPrefix:S.addQueryPrefix,allowDots:void 0===t.allowDots?S.allowDots:!!t.allowDots,charset:r,charsetSentinel:"boolean"==typeof t.charsetSentinel?t.charsetSentinel:S.charsetSentinel,delimiter:void 0===t.delimiter?S.delimiter:t.delimiter,encode:"boolean"==typeof t.encode?t.encode:S.encode,encoder:"function"==typeof t.encoder?t.encoder:S.encoder,encodeValuesOnly:"boolean"==typeof t.encodeValuesOnly?t.encodeValuesOnly:S.encodeValuesOnly,filter:o,format:n,formatter:e,serializeDate:"function"==typeof t.serializeDate?t.serializeDate:S.serializeDate,skipNulls:"boolean"==typeof t.skipNulls?t.skipNulls:S.skipNulls,sort:"function"==typeof t.sort?t.sort:null,strictNullHandling:"boolean"==typeof t.strictNullHandling?t.strictNullHandling:S.strictNullHandling}}(r);"function"==typeof o.filter?e=(0,o.filter)("",e):m(o.filter)&&(n=o.filter);var i=[];if("object"!=typeof e||null===e)return"";var u=g[r&&r.arrayFormat in g?r.arrayFormat:r&&"indices"in r?r.indices?"indices":"repeat":"indices"];n||(n=Object.keys(e)),o.sort&&n.sort(o.sort);for(var f=0;f<n.length;++f){var a=n[f];o.skipNulls&&null===e[a]||O(i,k(e[a],a,u,o.strictNullHandling,o.skipNulls,o.encode?o.encoder:null,o.filter,o.sort,o.allowDots,o.serializeDate,o.format,o.formatter,o.encodeValuesOnly,o.charset))}var c=i.join(o.delimiter),l=!0===o.addQueryPrefix?"?":"";return o.charsetSentinel&&(l+="iso-8859-1"===o.charset?"utf8=%26%2310003%3B&":"utf8=%E2%9C%93&"),c.length>0?l+c:""}(n({},r,this.u._query),{addQueryPrefix:!0,arrayFormat:"indices",encodeValuesOnly:!0,skipNulls:!0,encoder:function(t,r){return"boolean"==typeof t?Number(t):r(t)}})},f.p=function(t){var r=this;t?this.t.absolute&&t.startsWith("/")&&(t=this.v().host+t):t=this.h();var e={},o=Object.entries(this.t.routes).find(function(n){return e=new A(n[0],n[1],r.t).matchesUrl(t)})||[void 0,void 0];return n({name:o[0]},e,{route:o[1]})},f.h=function(){var t=this.v(),r=t.pathname,n=t.search;return(this.t.absolute?t.host+r:r.replace(this.t.url.replace(/^\w*:\/\/[^/]+/,""),"").replace(/^\/+/,"/"))+n},f.current=function(t,r){var e=this.p(),o=e.name,i=e.params,u=e.query,f=e.route;if(!t)return o;var a=new RegExp("^"+t.replace(/\./g,"\\.").replace(/\*/g,".*")+"$").test(o);if([null,void 0].includes(r)||!a)return a;var c=new A(o,f,this.t);r=this.l(r,c);var l=n({},i,u);return!(!Object.values(r).every(function(t){return!t})||Object.values(l).some(function(t){return void 0!==t}))||Object.entries(r).every(function(t){return l[t[0]]==t[1]})},f.v=function(){var t,r,n,e,o,i,u="undefined"!=typeof window?window.location:{},f=u.host,a=u.pathname,c=u.search;return{host:null!=(t=null==(r=this.t.location)?void 0:r.host)?t:void 0===f?"":f,pathname:null!=(n=null==(e=this.t.location)?void 0:e.pathname)?n:void 0===a?"":a,search:null!=(o=null==(i=this.t.location)?void 0:i.search)?o:void 0===c?"":c}},f.has=function(t){return Object.keys(this.t.routes).includes(t)},f.l=function(t,r){var e=this;void 0===t&&(t={}),void 0===r&&(r=this.i),null!=t||(t={}),t=["string","number"].includes(typeof t)?[t]:t;var o=r.parameterSegments.filter(function(t){return!e.t.defaults[t.name]});if(Array.isArray(t))t=t.reduce(function(t,r,e){var i,u;return n({},t,o[e]?((i={})[o[e].name]=r,i):"object"==typeof r?r:((u={})[r]="",u))},{});else if(1===o.length&&!t[o[0].name]&&(t.hasOwnProperty(Object.values(r.bindings)[0])||t.hasOwnProperty("id"))){var i;(i={})[o[0].name]=t,t=i}return n({},this.g(r),this.m(t,r))},f.g=function(t){var r=this;return t.parameterSegments.filter(function(t){return r.t.defaults[t.name]}).reduce(function(t,e,o){var i,u=e.name;return n({},t,((i={})[u]=r.t.defaults[u],i))},{})},f.m=function(t,r){var e=r.bindings,o=r.parameterSegments;return Object.entries(t).reduce(function(t,r){var i,u,f=r[0],a=r[1];if(!a||"object"!=typeof a||Array.isArray(a)||!o.some(function(t){return t.name===f}))return n({},t,((u={})[f]=a,u));if(!a.hasOwnProperty(e[f])){if(!a.hasOwnProperty("id"))throw new Error("Ziggy error: object passed as '"+f+"' parameter is missing route model binding key '"+e[f]+"'.");e[f]="id"}return n({},t,((i={})[f]=a[e[f]],i))},{})},f.valueOf=function(){return this.toString()},f.check=function(t){return this.has(t)},r(u,[{key:"params",get:function(){var t=this.p();return n({},t.params,t.query)}}]),u}(/*#__PURE__*/f(String));return function(t,r,n,e){var o=new I(t,r,n,e);return t?o.toString():o}});
+
+</script><script src="https://profile.tapitcards.in/messages.js"></script>
+<script src="/assets/js/custom/helpers.js?id=5044ed0dbc11fd5055f357a665a3adef"></script>
+<script src="/assets/js/custom/custom.js?id=fb5e51a3c66de8db169722dcf66ece0d"></script>
+<script src="/assets/js/vcards/vcard-view.js?id=d0b6393884ebabbb7ff70647af70e678"></script>
+<script src="/assets/js/lightbox.js?id=669068e5c699f140a7d6efa6177837b1"></script>
+
+</html>
